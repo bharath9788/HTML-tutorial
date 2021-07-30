@@ -60,3 +60,11 @@ The below video will provide a detailed demo of these tags.
 
 
 
+
+
+
+<h2>Entities in HTML</h2>
+
+A few characters in HTML are reserved, such as < and >. if we use these in HTML, browser will consider these as tags. There are many such reserved characters. To solve this problem, 
+we use entites. Entities start with & and end with ;. Between these, we use entity name. Hence, < can be show as <b>&amp;lt;</b> and > can be shown as <b>&amp;gt;</b>.
+
